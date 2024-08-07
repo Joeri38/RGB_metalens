@@ -1,0 +1,359 @@
+MATLAB is selecting SOFTWARE OPENGL rendering.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2022 The MathWorks, Inc.
+                  R2022b (9.13.0.2049777) 64-bit (glnxa64)
+                              August 24, 2022
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+Hello from MATLAB, size of designs is:
+     4     9
+
+Number of jobs (multiplexed): 4
+Starting parallel pool (parpool) using the 'Processes' profile ...
+Connected to the parallel pool (number of workers: 1).
+Job number 1 of 4 done! Time = 19.3097 s
+Job number 3 of 4 done! Time = 9.04385 s
+Job number 2 of 4 done! Time = 9.05117 s
+Job number 4 of 4 done! Time = 8.92248 s
+Parfor loop total time elapsed: 47.4633 s, time per job: 11.8658 s
+Total time elapsed: 79.9017 s
+MATLAB is selecting SOFTWARE OPENGL rendering.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2022 The MathWorks, Inc.
+                  R2022b (9.13.0.2049777) 64-bit (glnxa64)
+                              August 24, 2022
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+Hello from MATLAB, size of designs is:
+   200     9
+
+Number of jobs (multiplexed): 200
+Starting parallel pool (parpool) using the 'Processes' profile ...
+Connected to the parallel pool (number of workers: 1).
+Job number 10 of 200 done! Time = 16.7223 s
+Job number 9 of 200 done! Time = 9.87446 s
+Job number 8 of 200 done! Time = 9.5751 s
+Job number 7 of 200 done! Time = 9.02515 s
+Job number 6 of 200 done! Time = 9.38626 s
+Job number 5 of 200 done! Time = 9.17495 s
+Job number 4 of 200 done! Time = 8.97199 s
+Job number 3 of 200 done! Time = 9.0187 s
+Job number 2 of 200 done! Time = 8.98557 s
+Job number 1 of 200 done! Time = 8.94689 s
+Job number 105 of 200 done! Time = 8.88229 s
+Job number 104 of 200 done! Time = 8.8832 s
+Job number 103 of 200 done! Time = 8.94059 s
+Job number 102 of 200 done! Time = 8.99113 s
+Job number 101 of 200 done! Time = 9.21079 s
+Job number 100 of 200 done! Time = 8.95514 s
+Job number 99 of 200 done! Time = 8.91861 s
+Job number 98 of 200 done! Time = 8.89257 s
+Job number 97 of 200 done! Time = 9.00957 s
+Job number 96 of 200 done! Time = 9.04993 s
+Job number 95 of 200 done! Time = 8.91275 s
+Job number 94 of 200 done! Time = 8.8871 s
+Job number 93 of 200 done! Time = 8.97664 s
+Job number 92 of 200 done! Time = 8.89957 s
+Job number 91 of 200 done! Time = 8.88842 s
+Job number 90 of 200 done! Time = 8.85661 s
+Job number 89 of 200 done! Time = 9.15482 s
+Job number 88 of 200 done! Time = 8.91195 s
+Job number 87 of 200 done! Time = 8.92194 s
+Job number 86 of 200 done! Time = 8.96767 s
+Job number 85 of 200 done! Time = 8.91537 s
+Job number 84 of 200 done! Time = 8.95032 s
+Job number 83 of 200 done! Time = 8.95791 s
+Job number 82 of 200 done! Time = 8.94084 s
+Job number 81 of 200 done! Time = 8.90685 s
+Job number 80 of 200 done! Time = 8.91981 s
+Job number 79 of 200 done! Time = 8.94151 s
+Job number 78 of 200 done! Time = 9.2478 s
+Job number 77 of 200 done! Time = 8.89195 s
+Job number 76 of 200 done! Time = 8.88988 s
+MATLAB is selecting SOFTWARE OPENGL rendering.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2022 The MathWorks, Inc.
+                  R2022b (9.13.0.2049777) 64-bit (glnxa64)
+                              August 24, 2022
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+Hello from MATLAB, size of designs is:
+     4     9
+
+Number of jobs (multiplexed): 4
+Starting parallel pool (parpool) using the 'Processes' profile ...
+Connected to the parallel pool (number of workers: 1).
+Job number 1 of 4 done! Time = 19.9354 s
+Job number 3 of 4 done! Time = 12.6389 s
+Job number 2 of 4 done! Time = 12.3826 s
+Job number 4 of 4 done! Time = 12.2025 s
+Parfor loop total time elapsed: 58.2026 s, time per job: 14.5507 s
+Total time elapsed: 83.8461 s
+MATLAB is selecting SOFTWARE OPENGL rendering.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2022 The MathWorks, Inc.
+                  R2022b (9.13.0.2049777) 64-bit (glnxa64)
+                              August 24, 2022
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+Hello from MATLAB, size of designs is:
+   200     9
+
+Number of jobs (multiplexed): 200
+Starting parallel pool (parpool) using the 'Processes' profile ...
+Connected to the parallel pool (number of workers: 1).
+Job number 10 of 200 done! Time = 18.786 s
+Job number 9 of 200 done! Time = 12.6828 s
+Job number 8 of 200 done! Time = 12.3474 s
+Job number 7 of 200 done! Time = 12.306 s
+Job number 6 of 200 done! Time = 12.4687 s
+Job number 5 of 200 done! Time = 12.2502 s
+Job number 4 of 200 done! Time = 12.201 s
+Job number 3 of 200 done! Time = 12.2056 s
+Job number 2 of 200 done! Time = 12.3244 s
+Job number 1 of 200 done! Time = 12.2018 s
+Job number 105 of 200 done! Time = 12.1999 s
+Job number 104 of 200 done! Time = 12.3094 s
+Job number 103 of 200 done! Time = 12.2826 s
+Job number 102 of 200 done! Time = 12.3215 s
+Job number 101 of 200 done! Time = 12.5408 s
+Job number 100 of 200 done! Time = 12.1881 s
+Job number 99 of 200 done! Time = 12.1615 s
+Job number 98 of 200 done! Time = 12.1763 s
+Job number 97 of 200 done! Time = 12.3932 s
+Job number 96 of 200 done! Time = 12.4026 s
+Job number 95 of 200 done! Time = 12.2681 s
+Job number 94 of 200 done! Time = 12.2519 s
+Job number 93 of 200 done! Time = 12.3091 s
+Job number 92 of 200 done! Time = 12.2492 s
+Job number 91 of 200 done! Time = 12.5112 s
+Job number 90 of 200 done! Time = 12.2355 s
+Job number 89 of 200 done! Time = 12.5252 s
+Job number 88 of 200 done! Time = 12.1918 s
+Job number 87 of 200 done! Time = 12.1622 s
+Job number 86 of 200 done! Time = 12.2051 s
+Job number 85 of 200 done! Time = 12.1387 s
+Job number 84 of 200 done! Time = 12.1662 s
+Job number 83 of 200 done! Time = 12.2408 s
+Job number 82 of 200 done! Time = 12.2167 s
+Job number 81 of 200 done! Time = 12.2426 s
+Job number 80 of 200 done! Time = 12.2353 s
+Job number 79 of 200 done! Time = 12.4064 s
+Job number 78 of 200 done! Time = 12.5232 s
+Job number 77 of 200 done! Time = 12.15 s
+Job number 76 of 200 done! Time = 12.1873 s
+Job number 75 of 200 done! Time = 12.2432 s
+Job number 74 of 200 done! Time = 12.508 s
+Job number 73 of 200 done! Time = 12.2998 s
+Job number 72 of 200 done! Time = 12.2104 s
+Job number 71 of 200 done! Time = 12.2381 s
+Job number 70 of 200 done! Time = 12.2519 s
+Job number 69 of 200 done! Time = 12.2114 s
+Job number 68 of 200 done! Time = 12.4697 s
+Job number 67 of 200 done! Time = 12.1899 s
+Job number 66 of 200 done! Time = 12.3063 s
+Job number 65 of 200 done! Time = 12.1908 s
+Job number 64 of 200 done! Time = 12.2185 s
+Job number 63 of 200 done! Time = 12.2314 s
+Job number 62 of 200 done! Time = 12.4078 s
+Job number 61 of 200 done! Time = 12.2119 s
+Job number 60 of 200 done! Time = 12.6339 s
+Job number 59 of 200 done! Time = 12.3461 s
+Job number 58 of 200 done! Time = 12.2179 s
+Job number 57 of 200 done! Time = 12.311 s
+Job number 56 of 200 done! Time = 12.2147 s
+Job number 55 of 200 done! Time = 12.1741 s
+Job number 54 of 200 done! Time = 12.1999 s
+Job number 53 of 200 done! Time = 12.2192 s
+Job number 52 of 200 done! Time = 12.1938 s
+Job number 51 of 200 done! Time = 12.2226 s
+Job number 50 of 200 done! Time = 12.1668 s
+Job number 49 of 200 done! Time = 12.2464 s
+Job number 48 of 200 done! Time = 12.2172 s
+Job number 47 of 200 done! Time = 12.191 s
+Job number 46 of 200 done! Time = 12.246 s
+Job number 45 of 200 done! Time = 12.1733 s
+Job number 44 of 200 done! Time = 12.3158 s
+Job number 43 of 200 done! Time = 12.2329 s
+Job number 42 of 200 done! Time = 12.188 s
+Job number 41 of 200 done! Time = 12.2198 s
+Job number 40 of 200 done! Time = 12.2854 s
+Job number 39 of 200 done! Time = 12.3485 s
+Job number 38 of 200 done! Time = 12.3353 s
+Job number 37 of 200 done! Time = 12.2669 s
+Job number 36 of 200 done! Time = 12.3147 s
+Job number 35 of 200 done! Time = 12.2263 s
+Job number 34 of 200 done! Time = 12.5936 s
+Job number 33 of 200 done! Time = 12.1878 s
+Job number 32 of 200 done! Time = 12.2187 s
+Job number 31 of 200 done! Time = 12.3119 s
+Job number 30 of 200 done! Time = 12.1973 s
+Job number 29 of 200 done! Time = 12.192 s
+Job number 28 of 200 done! Time = 12.2427 s
+Job number 27 of 200 done! Time = 12.1311 s
+Job number 26 of 200 done! Time = 12.1906 s
+Job number 25 of 200 done! Time = 12.2144 s
+Job number 24 of 200 done! Time = 12.2579 s
+Job number 23 of 200 done! Time = 12.2594 s
+Job number 22 of 200 done! Time = 12.2648 s
+Job number 21 of 200 done! Time = 12.2602 s
+Job number 20 of 200 done! Time = 12.3092 s
+Job number 19 of 200 done! Time = 12.2085 s
+Job number 18 of 200 done! Time = 12.2064 s
+Job number 17 of 200 done! Time = 12.1628 s
+Job number 16 of 200 done! Time = 12.4692 s
+Job number 15 of 200 done! Time = 12.3154 s
+Job number 14 of 200 done! Time = 12.2503 s
+Job number 13 of 200 done! Time = 12.1994 s
+Job number 12 of 200 done! Time = 12.1849 s
+Job number 11 of 200 done! Time = 12.2412 s
+Job number 153 of 200 done! Time = 12.1191 s
+Job number 152 of 200 done! Time = 12.1144 s
+Job number 151 of 200 done! Time = 12.1672 s
+Job number 150 of 200 done! Time = 12.2047 s
+Job number 149 of 200 done! Time = 12.2326 s
+Job number 148 of 200 done! Time = 12.2345 s
+Job number 147 of 200 done! Time = 13.5901 s
+Job number 146 of 200 done! Time = 12.1605 s
+Job number 145 of 200 done! Time = 12.1266 s
+Job number 144 of 200 done! Time = 12.1251 s
+Job number 143 of 200 done! Time = 12.088 s
+Job number 142 of 200 done! Time = 12.1399 s
+Job number 141 of 200 done! Time = 12.1758 s
+Job number 140 of 200 done! Time = 12.1662 s
+Job number 139 of 200 done! Time = 12.2292 s
+Job number 138 of 200 done! Time = 12.2377 s
+Job number 137 of 200 done! Time = 12.2157 s
+Job number 136 of 200 done! Time = 12.1596 s
+Job number 135 of 200 done! Time = 12.1491 s
+Job number 134 of 200 done! Time = 12.3098 s
+Job number 133 of 200 done! Time = 13.05 s
+Job number 132 of 200 done! Time = 12.8758 s
+Job number 131 of 200 done! Time = 12.2299 s
+Job number 130 of 200 done! Time = 12.2271 s
+Job number 129 of 200 done! Time = 12.2291 s
+Job number 128 of 200 done! Time = 12.5877 s
+Job number 127 of 200 done! Time = 12.3355 s
+Job number 126 of 200 done! Time = 12.2687 s
+Job number 125 of 200 done! Time = 12.1978 s
+Job number 124 of 200 done! Time = 12.1648 s
+Job number 123 of 200 done! Time = 12.2388 s
+Job number 122 of 200 done! Time = 12.2966 s
+Job number 121 of 200 done! Time = 12.3081 s
+Job number 120 of 200 done! Time = 12.2382 s
+Job number 119 of 200 done! Time = 12.2392 s
+Job number 118 of 200 done! Time = 12.3497 s
+Job number 117 of 200 done! Time = 12.2564 s
+Job number 116 of 200 done! Time = 12.3577 s
+Job number 115 of 200 done! Time = 12.3129 s
+Job number 114 of 200 done! Time = 12.5175 s
+Job number 113 of 200 done! Time = 12.2298 s
+Job number 112 of 200 done! Time = 12.2403 s
+Job number 111 of 200 done! Time = 12.2442 s
+Job number 110 of 200 done! Time = 12.2801 s
+Job number 109 of 200 done! Time = 12.2604 s
+Job number 108 of 200 done! Time = 12.1819 s
+Job number 107 of 200 done! Time = 12.2185 s
+Job number 106 of 200 done! Time = 12.2199 s
+Job number 177 of 200 done! Time = 12.2017 s
+Job number 176 of 200 done! Time = 12.2798 s
+Job number 175 of 200 done! Time = 12.2356 s
+Job number 174 of 200 done! Time = 12.2602 s
+Job number 173 of 200 done! Time = 12.2637 s
+Job number 172 of 200 done! Time = 12.2768 s
+Job number 171 of 200 done! Time = 12.2885 s
+Job number 170 of 200 done! Time = 12.2544 s
+Job number 169 of 200 done! Time = 12.4493 s
+Job number 168 of 200 done! Time = 12.246 s
+Job number 167 of 200 done! Time = 12.1639 s
+Job number 166 of 200 done! Time = 12.204 s
+Job number 165 of 200 done! Time = 12.1607 s
+Job number 164 of 200 done! Time = 12.7167 s
+Job number 163 of 200 done! Time = 12.4669 s
+Job number 162 of 200 done! Time = 12.215 s
+Job number 161 of 200 done! Time = 12.2239 s
+Job number 160 of 200 done! Time = 12.25 s
+Job number 159 of 200 done! Time = 12.3148 s
+Job number 158 of 200 done! Time = 12.3101 s
+Job number 157 of 200 done! Time = 12.2961 s
+Job number 156 of 200 done! Time = 12.289 s
+Job number 155 of 200 done! Time = 12.2799 s
+Job number 154 of 200 done! Time = 12.2486 s
+Job number 189 of 200 done! Time = 12.2581 s
+Job number 188 of 200 done! Time = 12.2533 s
+Job number 187 of 200 done! Time = 12.2959 s
+Job number 186 of 200 done! Time = 12.281 s
+Job number 185 of 200 done! Time = 12.3165 s
+Job number 184 of 200 done! Time = 12.3153 s
+Job number 183 of 200 done! Time = 12.3168 s
+Job number 182 of 200 done! Time = 12.5352 s
+Job number 181 of 200 done! Time = 12.2155 s
+Job number 180 of 200 done! Time = 12.1718 s
+Job number 179 of 200 done! Time = 12.1944 s
+Job number 178 of 200 done! Time = 12.2137 s
+Job number 199 of 200 done! Time = 12.2444 s
+Job number 198 of 200 done! Time = 12.2005 s
+Job number 197 of 200 done! Time = 12.4039 s
+Job number 196 of 200 done! Time = 12.2421 s
+Job number 195 of 200 done! Time = 12.2263 s
+Job number 194 of 200 done! Time = 12.2583 s
+Job number 193 of 200 done! Time = 12.2272 s
+Job number 192 of 200 done! Time = 12.2534 s
+Job number 191 of 200 done! Time = 12.2586 s
+Job number 190 of 200 done! Time = 12.2187 s
+Job number 200 of 200 done! Time = 12.3435 s
+Parfor loop total time elapsed: 2464.38 s, time per job: 12.3219 s
+Total time elapsed: 2489.13 s
+device: cpu
+ActivelyLearnedModel created!
+ActivelyLearnedModel saved!
+sample n_points: 4
+designs: [[1.52512563e-07 2.29899497e-07 1.42462312e-07 6.40703518e-08
+  1.56532663e-07 1.21356784e-07 2.38944724e-07 7.01005025e-08
+  1.52512563e-07]
+ [1.71608040e-07 1.24371859e-07 1.37437186e-07 1.66582915e-07
+  1.49497487e-07 1.53517588e-07 2.01758794e-07 1.80653266e-07
+  1.99748744e-07]
+ [1.02261307e-07 5.10050251e-08 1.37437186e-07 2.07788945e-07
+  8.71859296e-08 1.79648241e-07 2.41959799e-07 2.37939698e-07
+  7.01005025e-08]
+ [2.10804020e-07 1.07286432e-07 7.11055276e-08 1.38442211e-07
+  9.82412060e-08 1.08291457e-07 2.19849246e-07 2.37939698e-07
+  6.40703518e-08]]
+y_test: [[-0.3168766 ]
+ [ 0.4320787 ]
+ [-0.28680205]
+ [-0.40962757]]
+y_test_pred: [-0.00288901 -0.00024166  0.00455356  0.00030936]
+mae z_real: 0.362
+sample n_points: 1
+designs: [[5.00000000e-08 2.39949749e-07 2.24874372e-07 ... 1.04271357e-07
+  1.13316583e-07 1.80653266e-07]
+ [5.10050251e-08 2.39949749e-07 2.24874372e-07 ... 1.04271357e-07
+  1.13316583e-07 1.80653266e-07]
+ [5.20100503e-08 2.39949749e-07 2.24874372e-07 ... 1.04271357e-07
+  1.13316583e-07 1.80653266e-07]
+ ...
+ [2.47989950e-07 2.39949749e-07 2.24874372e-07 ... 1.04271357e-07
+  1.13316583e-07 1.80653266e-07]
+ [2.48994975e-07 2.39949749e-07 2.24874372e-07 ... 1.04271357e-07
+  1.13316583e-07 1.80653266e-07]
+ [2.50000000e-07 2.39949749e-07 2.24874372e-07 ... 1.04271357e-07
+  1.13316583e-07 1.80653266e-07]]
+making figure

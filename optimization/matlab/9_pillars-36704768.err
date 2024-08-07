@@ -1,0 +1,7 @@
+{Error using save
+Cannot create 'z_real_0.658um_p=750nm_t=800nm_res=2.mat' because
+'library/TiO2_9_pillars' does not exist.
+
+Error in TiO2_9_pillars (line 63)
+    save("library/TiO2_9_pillars/z_real_" + num2str(input.lambda0*1e6) + "um_p=" + num2str(input.period_range*1e9) + "nm_t=" + num2str(input.patterned_layer_t_range*1e9) + "nm_res=" + num2str(res) + ".mat", 'z_real');
+} 

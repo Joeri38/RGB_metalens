@@ -1,0 +1,22 @@
+MATLAB is selecting SOFTWARE OPENGL rendering.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2022 The MathWorks, Inc.
+                  R2022b (9.13.0.2049777) 64-bit (glnxa64)
+                              August 24, 2022
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+Hello from MATLAB, size of designs is:
+     3     9
+
+Number of jobs (multiplexed): 3
+Starting parallel pool (parpool) using the 'Processes' profile ...
+Connected to the parallel pool (number of workers: 12).
+Job number 1 of 3 done! Time = 29.0954 s
+Job number 2 of 3 done! Time = 29.0685 s
+Job number 3 of 3 done! Time = 29.068 s
+Parfor loop total time elapsed: 29.9178 s, time per job: 9.97261 s
+Total time elapsed: 59.0282 s

@@ -1,0 +1,5 @@
+9 pillars, radius=1000um, f=1450um, sep=0um, lamb=[0.488, 0.532, 0.658]um
+init: phase matching
+model_1 loaded!
+method: worst case
+x to be predicted: (1024, 1024, 9)

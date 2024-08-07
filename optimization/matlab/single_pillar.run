@@ -1,0 +1,11 @@
+#!/bin/bash
+#SBATCH -J single_pillar
+#SBATCH -o single_pillar-%j.out
+#SBATCH -e single_pillar-%j.err
+#SBATCH -N 1
+#SBATCH -c 32
+#SBATCH -t 0-04:00
+#SBATCH --mem=32G
+ 
+module load matlab/R2022b-fasrc01
+srun -c $SLURM_CPUS_PER_TASK matlab -nosplash -nodesktop -r "TiO2_pillars"

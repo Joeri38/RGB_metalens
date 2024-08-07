@@ -1,0 +1,2 @@
+optimization/metalenses/single_pillar/init_diameters_delta=0.75um_p=400nm_t=600nm_res=200.npy filter=lfs diff=lfs merge=lfs -text
+optimization/metalenses/single_pillar/init_diameters_delta=0.75um_res=200.npy filter=lfs diff=lfs merge=lfs -text

@@ -1,0 +1,25 @@
+
+-------------------------------------------------------------------------------------------------------------
+  matlab:
+-------------------------------------------------------------------------------------------------------------
+     Versions:
+        matlab/R2007a-ncf
+        matlab/R2012b-ncf
+        matlab/R2015b-ncf
+        matlab/R2019b-fasrc01-ncf
+        matlab/R2021a-fasrc01
+        matlab/R2022b-fasrc01
+        matlab/7.4-ncf
+        matlab/8.0-ncf
+        matlab/8.6-ncf
+
+-------------------------------------------------------------------------------------------------------------
+  For detailed information about a specific "matlab" package (including how to load the modules) use the module's full name.
+  Note that names that have a trailing (E) are extensions provided by other modules.
+  For example:
+
+     $ module spider matlab/8.6-ncf
+-------------------------------------------------------------------------------------------------------------
+
+ 
+

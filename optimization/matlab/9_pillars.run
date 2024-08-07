@@ -1,0 +1,13 @@
+#!/bin/bash
+#SBATCH -J 9_pillars
+#SBATCH -o 9_pillars-%j.out
+#SBATCH -e 9_pillars-%j.err
+#SBATCH -N 1
+#SBATCH -c 32
+#SBATCH -t 0-05:30
+#SBATCH --mem=32G
+#SBATCH -p gpu_requeue
+#SBATCH --gres=gpu:1
+ 
+module load matlab/R2022b-fasrc01
+srun -c $SLURM_CPUS_PER_TASK matlab -nosplash -nodesktop -r "get_TiO2_9_pillars"
